@@ -1,3 +1,5 @@
+package com.br.algoritmos.basic;
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
