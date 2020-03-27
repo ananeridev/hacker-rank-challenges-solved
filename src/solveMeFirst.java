@@ -4,6 +4,10 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+/**
+ * @author Ana Beatriz Neri
+ *
+ */
 
 public class solveMeFirst {
 
