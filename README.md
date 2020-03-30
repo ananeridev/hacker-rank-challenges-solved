@@ -14,6 +14,7 @@
 | ------------- |:-------------:| 
 | [SolveMeFrist](https://www.hackerrank.com/challenges/simple-array-sum/problem)     | solvemeFirst.java| 
 |  [ArraySum](https://www.hackerrank.com/challenges/simple-array-sum/problem)        | ArraySum.java    |  
+|  [Compare the Triples](https://www.hackerrank.com/challenges/compare-the-triplets/problem?h_r=next-challenge&h_v=zen)        | CompareTheTriples.java |  
 
 
 
