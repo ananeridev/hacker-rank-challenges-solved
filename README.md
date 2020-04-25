@@ -4,6 +4,7 @@
  O objetivo é deixar aqui alguns desafios completados no hacker hanck de algoritmos e estrutura de dados, escritos em Java 8
  E posteriormente eu vou fazer um vídeo de como cheguei nas resoluções, enjoy!
  
+ ...
  
 ### hi guys welcome to the Hacker Hank Challenges repository :tada:
  The goal is to leave here some challenges completed in the hacker hanck of algorithms and data structure, written in Java 8
