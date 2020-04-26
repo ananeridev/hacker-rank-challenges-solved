@@ -13,10 +13,10 @@
  
  | Challenge     | Resolution      
 | ------------- |:-------------:| 
-| [SolveMeFrist](https://www.hackerrank.com/challenges/simple-array-sum/problem)     | solvemeFirst.java| 
+| [SolveMeFrist](https://www.hackerrank.com/challenges/simple-array-sum/problem)     | SolvemeFirst.java| 
 |  [ArraySum](https://www.hackerrank.com/challenges/simple-array-sum/problem)        | ArraySum.java    |  
 |  [Compare the Triples](https://www.hackerrank.com/challenges/compare-the-triplets/problem?h_r=next-challenge&h_v=zen)        | CompareTheTriples.java |  
-
+| [DiagonalDifference](https://www.hackerrank.com/challenges/diagonal-difference/problem)  | DiagonalDifference.java| 
 
 
 
