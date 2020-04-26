@@ -66,3 +66,6 @@ class Result {
         bufferedWriter.close();
     }
 }
+
+    private static int diagonalDifference(List<List<Integer>> arr) {
+    }
