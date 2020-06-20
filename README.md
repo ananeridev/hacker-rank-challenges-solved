@@ -1,4 +1,4 @@
-# HackerHankChallenges
+# HackerRankChallenges
 
 :construction: Ainda esta em construção para fazer esses códigos rodarem localmente!:construction:
 
