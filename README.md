@@ -15,10 +15,12 @@
  
  | Challenge     | Resolution      
 | ------------- |:-------------:| 
-| [SolveMeFrist](https://www.hackerrank.com/challenges/simple-array-sum/problem)     | SolvemeFirst.java| 
-|  [ArraySum](https://www.hackerrank.com/challenges/simple-array-sum/problem)        | ArraySum.java    |  
-|  [Compare the Triples](https://www.hackerrank.com/challenges/compare-the-triplets/problem?h_r=next-challenge&h_v=zen)        | CompareTheTriples.java |  
+| [SolveMeFrist](https://www.hackerrank.com/challenges/simple-array-sum/problem)     | [SolvemeFirst.java](https://github.com/anabneri/HackerHankChallenges/blob/master/src/com/br/algoritmos/basic/SolveMeFirst.java)| 
+|  [ArraySum](https://www.hackerrank.com/challenges/simple-array-sum/problem)        | [ArraySum.java](https://github.com/anabneri/HackerHankChallenges/blob/master/src/com/br/algoritmos/basic/ArraySum.java)|  
+|  [Compare the Triples](https://www.hackerrank.com/challenges/compare-the-triplets/problem?h_r=next-challenge&h_v=zen)| [CompareTheTriples.java](https://github.com/anabneri/HackerHankChallenges/blob/master/src/com/br/algoritmos/basic/CompareTheTriples.java) |  
 | [DiagonalDifference](https://www.hackerrank.com/challenges/diagonal-difference/problem)  | [DiagonalDifference.java](https://github.com/anabneri/HackerHankChallenges/blob/master/src/com/br/algoritmos/basic/DiagonalDifference.java)| 
+| [PlusMinus](https://www.hackerrank.com/challenges/plus-minus/problem)  | [PlusMinus.java](https://github.com/anabneri/HackerHankChallenges/blob/master/src/com/br/algoritmos/basic/PlusMinus.java)| 
+| [VeryBigSum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)  | [VeryBigSum.java](https://github.com/anabneri/HackerHankChallenges/blob/master/src/com/br/algoritmos/basic/VeryBigSum.java)| 
 
 
 
