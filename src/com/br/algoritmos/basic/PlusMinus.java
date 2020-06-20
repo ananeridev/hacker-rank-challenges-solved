@@ -7,7 +7,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class plusMinus {
+public class PlusMinus {
 
         // Complete the plusMinus function below.
         static void plusMinus(int[] arr) {
