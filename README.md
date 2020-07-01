@@ -24,6 +24,6 @@
 
 
 
-#### Let's code dudes :smiling_imp:	
+#### Let's code :smiling_imp:	
 
 
