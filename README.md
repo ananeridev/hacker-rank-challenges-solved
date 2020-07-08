@@ -1,7 +1,5 @@
 # HackerRankChallenges
 
-:construction: Ainda esta em construção para fazer esses códigos rodarem localmente!:construction:
-
 ### (pt) oi pessoal bem vindo ao repositório HackerRank Challenges :tada:
  O objetivo é deixar aqui alguns desafios completados no hacker hanck de algoritmos e estrutura de dados, escritos em Java 8
  E posteriormente eu vou fazer um vídeo de como cheguei nas resoluções, enjoy!
