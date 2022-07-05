@@ -4,7 +4,7 @@ public class FindThreeLargestNumbers {
 
     public static int[] findThreeLargestNumbers(int[] array) {
 
-        int[] threeLargest = {Integer.MIN_VALUE, Integer.MIN_VALUE, Integer.MIN_VALUE}
+        int[] threeLargest = {Integer.MIN_VALUE, Integer.MIN_VALUE, Integer.MIN_VALUE};
         for (int num : array) {
             updateLargest(threeLargest, num);
         }
@@ -22,7 +22,7 @@ public class FindThreeLargestNumbers {
         }
     }
 
-    public static void changeAndUpdate(int[] array, int num) {
+    public static void changeAndUpdate(int[] array, int num, int idx) {
         for (int i = 0; i <= idx; i++) {
             if (i == idx) {
                 array[i] = num;
