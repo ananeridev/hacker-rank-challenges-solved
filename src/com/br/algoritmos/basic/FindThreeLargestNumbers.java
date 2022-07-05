@@ -2,6 +2,12 @@ package com.br.algoritmos.basic;
 
 public class FindThreeLargestNumbers {
 
+    /*
+    * There's the exercise: Write a function that takes an array of at least 3 integers and without sorting
+    * the input array, returns a sorted array of the three largest input array
+    *
+    * */
+
     public static int[] findThreeLargestNumbers(int[] array) {
 
         int[] threeLargest = {Integer.MIN_VALUE, Integer.MIN_VALUE, Integer.MIN_VALUE};
